@@ -6,4 +6,4 @@ git add .
 
 git commit -m "A MENSAGEM DE COMMIT"
 
-git push -u origin (Comando para o main)
+git push -u origin
