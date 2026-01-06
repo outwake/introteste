@@ -5,3 +5,5 @@ git remote add origin URL_DO_REPOSITORIO
 git add .
 
 git commit -m "A MENSAGEM DE COMMIT"
+
+git push -u origin
