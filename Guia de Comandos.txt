@@ -7,3 +7,6 @@ git add .
 git commit -m "A MENSAGEM DE COMMIT"
 
 git push -u origin
+
+AGORA ESTAMOS NA BRANCH NOVA
+git checkout -b dev
