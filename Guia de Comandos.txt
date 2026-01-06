@@ -9,4 +9,6 @@ git commit -m "A MENSAGEM DE COMMIT"
 git push -u origin
 
 AGORA ESTAMOS NA BRANCH NOVA
-git checkout -b dev
+git checkout -b dev (criação da branch)
+
+git checkout dev (transição da branch)
